@@ -1,0 +1,21 @@
+.contain {
+  text-align: center;
+  margin-top: 250px;
+  padding: 24px;
+}
+.font {
+  font-size: 25px;
+}
+
+.hidden {
+  display: none;
+}
+
+.box {
+  border: 1px solid black;
+}
+
+#delete {
+  margin-top: 40px;
+  font-size: 40px;
+}
